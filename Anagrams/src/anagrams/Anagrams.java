@@ -7,6 +7,8 @@ public class Anagrams {
   
   public static void main(String[] args) {
     
+    
+    
     String str1 = "Parliament";
     String str2 = "partIAL Myn";
     boolean result;

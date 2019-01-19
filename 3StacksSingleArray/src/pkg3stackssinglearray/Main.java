@@ -60,7 +60,7 @@ public class Main {
                  System.out.println("Enter the stack number 0,1,2");
                  System.out.println("Enter -1 to exit");
                  choice=sc.nextInt();                 
-                 k=sc.nextInt();
+                 k=sc.nextInt();//k is the no of the stack
                  switch(choice)
                  {
                      case 1:
