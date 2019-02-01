@@ -32,6 +32,7 @@ public class HeapSort {
             arr[i]=temp;
             
             heapify(arr,i,0);
+           // System.out.println(arr[0]);
         }
     }
     
